@@ -21,7 +21,7 @@
         <!--<slf4j.version>1.6.6</slf4j.version> -->
         <!--<log4j.version>1.2.9</log4j.version> -->
         <!-- shiro -->
-        <shiro.version>1.2.1</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <jdbc.driver.groupId>org.postgresql</jdbc.driver.groupId>
         <jdbc.driver.artifactId>postgresql</jdbc.driver.artifactId>
         <jdbc.driver.version>9.3-1102-jdbc4</jdbc.driver.version>
