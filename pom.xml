@@ -14,7 +14,7 @@
         <!-- Plugins -->
         <compiler.plugin.version>2.5.1</compiler.plugin.version>
         <!-- spring版本号 -->
-        <spring.version>4.3.9.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <!-- mybatis版本号 -->
         <mybatis.version>3.2.4</mybatis.version>
         <!-- log4j日志文件管理包版本 -->
